@@ -1,5 +1,6 @@
-## Hey there, I'm Kunal Garg 👋
-
+<p align="center">
+<h2>Hey there, I'm Kunal Garg 👋</h2>
+</p>
 <!--
 **ikunal-04/ikunal-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
