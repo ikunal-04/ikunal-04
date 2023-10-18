@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hey there, I'm Kunal Garg 👋
+   Hey there👋, I'm Kunal Garg! 
 </h1>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
