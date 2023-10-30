@@ -30,10 +30,10 @@
     <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,remix" />
 </a>
 </p>
 </div>
