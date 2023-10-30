@@ -18,12 +18,38 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ikunal-04&background=00000000&hide_border=true&stroke=F4EDAE&ring=F4EDAE&mode=weekly&fire=A8A162&currStreakNum=F4EDAE&sideNums=F4EDAE&currStreakLabel=A8A162&sideLabels=A8A162&dates=A8A162" />
 </div>
 
+<hr>
+
+<div id="badges" align="center">
+<h3>
+🛠️ Languages and Tools :
+</h3>
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+</a>
+</p>
+</div>
+
+<hr>
+
 ## Connect with me
 <a href="https://twitter.com/kunalg_twt">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
+   <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
 <a href="https://www.linkedin.com/in/ikunal04/">
-<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
+   <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
 </a>
+<a href="https://github.com/ikunal-04">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
+</a>
+
 
 <!--
 **ikunal-04/ikunal-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
