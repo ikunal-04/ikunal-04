@@ -12,6 +12,8 @@
 - 👯 I’m looking to collaborate on a **Blockchain project**.
 - 💬 Ask me about **Blockchain, Smart Contracts and other web3 related stuff**.
 
+<hr>
+
 ## My Github Stats
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ikunal-04&custom_title=Kunal%27s+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=F4EDAE&text_color=A8A162&icon_color=A8A162&cache_seconds=1800"/>
@@ -20,11 +22,10 @@
 
 <hr>
 
-<div id="badges" align="center">
-<h3>
-🛠️ Languages and Tools :
-</h3>
 
+## 🛠️ Languages and Tools :
+
+<div id="badges" align="center">
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
@@ -49,6 +50,7 @@
 <a href="https://github.com/ikunal-04">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
 </a>
+
 
 
 <!--
