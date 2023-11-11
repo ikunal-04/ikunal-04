@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,linux" />
 </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,remix" />
