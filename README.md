@@ -7,6 +7,8 @@
    Blockchain developer | Open Source
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunal-04&label=Profile%20views&color=0e75b6&style=flat" alt="ikunal-04" /> </p>
+
 - 🔭 I’m currently working on **Account Abstraction**.
 - 🌱 I’m currently learning **Account Abstraction, EVM and JavaScript**.
 - 👯 I’m looking to collaborate on a **Blockchain project**.
@@ -51,6 +53,9 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
 </a>
 
+<h1>All About Hacktoberfest</h1>
+
+[![@ikunal_04's Holopin board](https://holopin.me/ikunal_04)](https://holopin.io/@ikunal_04)
 
 
 <!--
