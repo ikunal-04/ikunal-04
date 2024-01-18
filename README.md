@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunal-04&label=Profile%20views&color=0e75b6&style=flat" alt="ikunal-04" /> </p>
 
 - 🔭 I’m currently working on **Account Abstraction**.
-- 🌱 I’m currently learning **Account Abstraction, EVM and JavaScript**.
-- 👯 I’m looking to collaborate on a **Blockchain project**.
-- 💬 Ask me about **Blockchain, Smart Contracts and other web3 related stuff**.
+- 🌱 I’m currently learning **Account Abstraction, EVM and MERN stack**.
+<!--- 👯 I’m looking to collaborate on a **Blockchain project**.-->
+- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.
 
 <hr>
 
