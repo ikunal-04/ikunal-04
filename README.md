@@ -11,8 +11,9 @@
 
 - 🔭 I’m currently working on **Account Abstraction**.
 - 🌱 I’m currently learning **Account Abstraction, EVM and MERN stack**.
-<!--- 👯 I’m looking to collaborate on a **Blockchain project**.-->
 - 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.
+<!--- 👯 I’m looking to collaborate on a **Blockchain project**.-->
+
 
 <hr>
 
