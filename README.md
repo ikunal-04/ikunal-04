@@ -31,17 +31,17 @@
 <div id="badges" align="center">
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,solidity" />
 </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,linux" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </a>
    <br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </a>
 </p>
 </div>
