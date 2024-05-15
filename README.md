@@ -4,7 +4,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunal-04&label=Profile%20views&color=0e75b6&style=flat" alt="ikunal-04" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunal-04&label=Profile%20views&color=0e75b6&style=flat" alt="ikunal-04" /> </p>
 
 ## About Me:
 - 🔭 I’m currently working on **NextJS projects**.
