@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunal-04&label=Profile%20views&color=0e75b6&style=flat" alt="ikunal-04" /> </p>
 
 ## About Me:
-- 🔭 I’m currently working on **NextJS projects**.
-- 🌱 I’m currently learning and understanding **Solana world!!**.
+- 🔭 I’m always building.
+<!-- 🌱 I’m currently learning and understanding **Solana world!!**.-->
 - 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.
 <!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
 
@@ -21,9 +21,9 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ikunal-04&background=00000000&hide_border=true&stroke=F4EDAE&ring=F4EDAE&mode=weekly&fire=A8A162&currStreakNum=F4EDAE&sideNums=F4EDAE&currStreakLabel=A8A162&sideLabels=A8A162&dates=A8A162" />
 </div>
 
-<hr>
+<!--<hr>-->
 
-
+<!--
 ## 🛠️ Languages and Tools :
 
 <div id="badges" align="center">
@@ -42,6 +42,7 @@
    <br/>
 </p>
 </div>
+-->
 
 <hr>
 
