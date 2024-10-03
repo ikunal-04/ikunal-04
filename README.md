@@ -17,10 +17,12 @@
 
 ## My Github Stats
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ikunal-04&custom_title=Kunal%27s+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=F4EDAE&text_color=A8A162&icon_color=A8A162&cache_seconds=1800"/>
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ikunal-04&background=00000000&hide_border=true&stroke=F4EDAE&ring=F4EDAE&mode=weekly&fire=A8A162&currStreakNum=F4EDAE&sideNums=F4EDAE&currStreakLabel=A8A162&sideLabels=A8A162&dates=A8A162" />
+<!--   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ikunal-04&custom_title=Kunal%27s+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=F4EDAE&text_color=A8A162&icon_color=A8A162&cache_seconds=1800"/>
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ikunal-04&background=00000000&hide_border=true&stroke=F4EDAE&ring=F4EDAE&mode=weekly&fire=A8A162&currStreakNum=F4EDAE&sideNums=F4EDAE&currStreakLabel=A8A162&sideLabels=A8A162&dates=A8A162" /> -->
      <img width="400px" src="https://raw.githubusercontent.com/ikunal-04/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+   <img width="400px" src="https://raw.githubusercontent.com/ikunal-04/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
+
 <!--<hr>-->
 
 <!--
