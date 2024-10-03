@@ -1,6 +1,6 @@
-<h1 align="center">
-   Hey there👋, I'm Kunal Garg! 
-</h1>
+
+   ## Hey there👋, I'm [Kunal Garg](https://kgarg.vercel.app/)! 
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 
@@ -11,6 +11,7 @@
 <!-- 🌱 I’m currently learning and understanding **Solana world!!**.-->
 - 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.
 <!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
+-   Know more about me [here.](https://drive.google.com/file/d/1Dzx-r_rw3jReqB3713eVoZQV8GOaBRdR/view?usp=sharing)
 
 <hr>
 
