@@ -11,7 +11,7 @@
 <!-- 🌱 I’m currently learning and understanding **Solana world!!**.-->
 - 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.
 <!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
--   Know more about me [here.](https://drive.google.com/file/d/1Dzx-r_rw3jReqB3713eVoZQV8GOaBRdR/view?usp=sharing)
+-   Know more about me [here.](https://drive.google.com/file/d/1rr1HUkeVHRkEa1EyuVZkFbCUn4ZnAM6c/view?usp=sharing)
 
 <hr>
 
