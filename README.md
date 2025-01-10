@@ -8,8 +8,8 @@
 
 ## About Me:
 - 🔭 I’m always building.
-<!-- 🌱 I’m currently learning and understanding **Solana world!!**.-->
-- 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.
+- 🌱 I’m currently exploring **AI Agents**.
+<!--- 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.-->
 <!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
 -   Know more about me [here.](https://drive.google.com/file/d/1rr1HUkeVHRkEa1EyuVZkFbCUn4ZnAM6c/view?usp=sharing)
 
