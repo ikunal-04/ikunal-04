@@ -9,7 +9,7 @@
 ## About Me:
 - 🔭 I’m always building.
 - 🌱 I’m currently exploring **AI Agents**.
-- 👾 Know more about me [here.](https://drive.google.com/file/d/1rr1HUkeVHRkEa1EyuVZkFbCUn4ZnAM6c/view?usp=sharing)
+- 👾 Know more about me [here.](https://drive.google.com/file/d/1SMBcz4fTcQZgL5kULlhErXAxXzCXGAAu/view?usp=sharing)
 <!--- 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.-->
 <!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
 
