@@ -55,11 +55,11 @@
    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
 </a>
 
-<!--
-<h1>All About Hacktoberfest</h1>
+
+## Hacktoberfest
 
 [![@ikunal_04's Holopin board](https://holopin.me/ikunal_04)](https://holopin.io/@ikunal_04)
--->
+
 
 <!--
 **ikunal-04/ikunal-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
